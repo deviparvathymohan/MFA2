@@ -144,8 +144,8 @@ STATIC_URL = '/static/'
 # email
 EMAIL_HOST="smtp.gmail.com"
 EMAIL_PORT=587
-EMAIL_HOST_USER="kefishalu@gmail.com"
-EMAIL_HOST_PASSWORD='kefishalu123@123'
+EMAIL_HOST_USER="mkddkdk@gmail.com"
+EMAIL_HOST_PASSWORD='xsdassddddsss'
 EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
